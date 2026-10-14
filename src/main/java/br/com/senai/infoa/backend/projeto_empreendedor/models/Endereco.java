@@ -1,4 +1,4 @@
-package br.com.senai.infoa.backend.projeto_empreendedor.modules;
+package br.com.senai.infoa.backend.projeto_empreendedor.models;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
